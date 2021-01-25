@@ -1,0 +1,2 @@
+# IOT-BASED-ANTI-THEFT-SYSTEM-USING-RASPBERRY-PI
+This research is focused on developing a surveillance system that detects strangers and to response speedily by capturing and relaying images to owner based wireless module. This Raspberry Pi based smart surveillance system presents the idea of monitoring a particular place in a remote area. The proposed solution offers a cost-effective ubiquitous surveillance solution, efficient and easy to implement. This project will also present the idea of motion detection and tracking using image processing.
